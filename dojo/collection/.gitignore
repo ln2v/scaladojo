@@ -9,6 +9,7 @@ syntax: glob
 
 # eclipse conf file
 .settings
+.cache-main
 .classpath
 .project
 .manager
