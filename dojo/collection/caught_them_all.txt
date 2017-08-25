@@ -1,0 +1,13 @@
+exist
+count
+map, distinct
+exist
+filter
+filterNot
+groupBy
+find
+mapReverse
+zipWithIndex
+zip 
+padTo
+zipAll
